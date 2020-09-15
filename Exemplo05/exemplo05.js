@@ -1,0 +1,1 @@
+document.getElementById('quadrado').style = "background-color: #ccc"
